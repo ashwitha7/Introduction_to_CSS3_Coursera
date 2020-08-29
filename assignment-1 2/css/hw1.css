@@ -1,0 +1,31 @@
+h1{
+    text-transform: uppercase;
+    text-align: center;
+    color: #ffffff;
+    font-size:200%;
+    
+}
+header{
+    background-color: #c5c3c3;
+}
+
+img{
+    display: none;
+}
+h2{
+    text-transform:uppercase;
+    color:#610fad;
+    font-size:140%;
+}
+
+main{
+    background-color:#808080;
+}
+a{
+    color: #000000;
+    background-color: #a39f9f;
+    font-size:90%;
+}
+p{
+    font-family:Arial, Helvetica, sans-serif;
+}
